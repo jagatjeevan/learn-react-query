@@ -1,0 +1,17 @@
+# Generated files
+package-lock.json
+pnpm-lock.yaml
+node_modules/
+
+#Build files
+out/
+.next/
+
+# Editor files
+.vscode
+
+# Coverage files
+coverage/
+
+
+.swc
